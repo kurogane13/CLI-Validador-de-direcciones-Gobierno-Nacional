@@ -13,11 +13,12 @@ Modo de setup y Uso:
 Descripcion y funcionalidades:
 
 Este programa de linea de comando (CLI), es un validador/nomenclador de direcciones de Provincia de Buenos Aires y C.A.B.A.
-Permite buscar y validar direcciones en base a 3 campos: 
+Permite buscar y validar direcciones en base a 4 campos: 
 
-    -Nombre de calle y Numero separados
+    -Nombre de calle y Numero separados * Campo bligatorio
     -Localidad o barrio
     -Partido
+    -Provincia *Campo Obligatorio
     
 
     
