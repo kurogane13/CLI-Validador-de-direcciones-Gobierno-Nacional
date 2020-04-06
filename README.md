@@ -19,6 +19,8 @@ Permite buscar y validar direcciones en base a 3 campos:
     -Localidad o barrio
     -Partido
     
+
+    
 Al proveerle los datos al programa, este consume la API del gobierno nacional:
 
 "https://apis.datos.gob.ar/georef/api/direcciones?provincia="
